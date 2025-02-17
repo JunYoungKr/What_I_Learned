@@ -11,3 +11,5 @@
 - [ ] Node.js or Spring (for Login / Register)
 - [ ] MySQL
 - [ ] TDD Test
+
+디자인은 레퍼런스 또는 Figma AI를 활용할 예정입니다.
